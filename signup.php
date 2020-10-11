@@ -16,6 +16,7 @@ else
   echo "<script>alert('Unsuccessfully Registered.');</script>";
 }
 }
+echo "hello"
 
 ?>
 
